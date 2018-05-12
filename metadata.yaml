@@ -1,0 +1,40 @@
+_repo: In-The-Days-of-Giants--13-A-Book-of-Norse-Tales_44622
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Smith, E. Boyd (Elmer Boyd)
+    alias: Smith, Elmer Boyd
+    birthdate: 1860
+    deathdate: 1943
+    gutenberg_agent_id: '6511'
+    url: http://www.gutenberg.org/2009/agents/6511
+covers:
+- cover_type: archival
+  image_path: 44622-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Brown, Abbie Farwell
+    birthdate: 1871
+    deathdate: 1927
+    gutenberg_agent_id: '5282'
+    url: http://www.gutenberg.org/2009/agents/5282
+description: ''
+gutenberg_issued: '2014-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44622'
+  lccn: '02012213'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mythology, Norse -- Juvenile literature'
+- !lcc 'PZ'
+tableOfContents: The beginning of things -- How Odin lost his eye -- Kvasir's blood
+  -- The giant builder -- The magic apples -- Skadi's choice -- The dwarf's gifts
+  -- Loki's children -- The quest of the hammer -- The giantess who would not -- Thor's
+  visit to the giants -- Thor's fishing -- Thor's duel -- In the giant's house --
+  Balder and the mistletoe -- The punishment of Loki.
+title: 'In the Days of Giants: A Book of Norse Tales'
+url: http://www.gutenberg.org/ebooks/44622
